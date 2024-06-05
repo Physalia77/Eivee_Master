@@ -231,3 +231,5 @@ async def on_ready():
 
 "a"
 if __name__ == '__main__':
+    """bot.loop.create0_task((change_status()))"""
+    bot.run('')
