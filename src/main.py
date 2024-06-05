@@ -229,6 +229,7 @@ async def on_ready():
     print_directory_structure('..', 'Project Root')
 
 
+""
 if __name__ == '__main__':
     """bot.loop.create0_task((change_status()))"""
     bot.run('')
