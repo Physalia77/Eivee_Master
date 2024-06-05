@@ -231,4 +231,4 @@ async def on_ready():
 
 if __name__ == '__main__':
     """bot.loop.create0_task((change_status()))"""
-    bot.run('OTAyNjA2MzM2NzgzNjgzNTg1.G4fDwh.K6PNEnk-nSxrTZq0PZ1DejAvL_3eNRwAN-ThY4')
+    bot.run('')
